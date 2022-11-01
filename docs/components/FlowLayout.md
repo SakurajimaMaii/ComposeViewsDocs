@@ -2,7 +2,7 @@
 
 ## Preview
 
-<div align=center><img src="../img/flow_layout.png" width=40%></div>
+![flow_layout](../img/flow_layout.png)
 
 ## Usage
 

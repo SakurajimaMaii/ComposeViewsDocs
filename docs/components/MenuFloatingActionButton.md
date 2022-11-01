@@ -2,7 +2,7 @@
 
 ## Preview
 
-<div align=center><img src="../img/fab.gif" width=20%></div>
+![fab](../img/fab.gif)
 
 ## Usage
 

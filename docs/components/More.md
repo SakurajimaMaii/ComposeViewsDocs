@@ -2,7 +2,7 @@
 
 ## Preview
 
-<div align=center><img src="../img/star_bar.gif" width=20%></div>
+![star_bar](../img/star_bar.gif)
 
 ## Usage
 

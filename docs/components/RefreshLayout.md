@@ -2,7 +2,7 @@
 
 ## Preview
 
-<div align=center><img src="../img/refresh_layout.gif" width=30%></div>
+![RefreshLayout](../img/refresh_layout.gif)
 
 ## Usage
 

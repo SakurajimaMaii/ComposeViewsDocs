@@ -1,4 +1,5 @@
 site_name: ComposeViews
+repo_url: https://github.com/SakurajimaMaii/ComposeViewsDocs/
 site_url: https://github.com/SakurajimaMaii/ComposeViewsDocs/
 
 nav:
@@ -24,3 +25,5 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - attr_list
+  - md_in_html

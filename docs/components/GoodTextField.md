@@ -2,7 +2,7 @@
 
 ## Preview
 
-<div align=center><img src="../img/text_field.png" width=30%></div>
+![text_field](../img/text_field.png)
 
 ## Usage
 
