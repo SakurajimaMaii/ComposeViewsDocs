@@ -2,9 +2,9 @@
 
 ## Preview
 
-<div align=center><img src="md_resource/scrollable_app_bar.gif" width=40%></div>
+<div align=center><img src="../img/scrollable_app_bar.gif" width=40%></div>
 
-<div align=center><img src="md_resource/swipe_to_dismiss.gif" width=20%></div>
+<div align=center><img src="../img/swipe_to_dismiss.gif" width=20%></div>
 
 ## Usage
 

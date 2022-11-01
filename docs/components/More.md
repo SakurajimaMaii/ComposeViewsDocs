@@ -2,7 +2,7 @@
 
 ## Preview
 
-<div align=center><img src="md_resource/star_bar.gif" width=20%></div>
+<div align=center><img src="../img/star_bar.gif" width=20%></div>
 
 ## Usage
 

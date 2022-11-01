@@ -2,7 +2,9 @@
 
 ## Preview
 
-<div align=center><img src="../img/compose_pager.gif" width=25%></div>
+<div align="center">
+<img src="../img/compose_pager.gif" width=30%>
+</div>
 
 ## Usage
 

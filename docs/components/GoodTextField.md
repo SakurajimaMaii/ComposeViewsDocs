@@ -2,7 +2,7 @@
 
 ## Preview
 
-<div align=center><img src="md_resource/text_field.png" width=30%></div>
+<div align=center><img src="../img/text_field.png" width=30%></div>
 
 ## Usage
 

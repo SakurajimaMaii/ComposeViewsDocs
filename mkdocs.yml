@@ -1,13 +1,15 @@
 site_name: ComposeViews
+site_url: https://github.com/SakurajimaMaii/ComposeViewsDocs/
 
 nav:
 - Home: index.md
 - Documents:
   - Usage: usage.md
 - Components:
-  - ComposePager: components/composepager.md
-  - Banner: components/banner.md
-  - PagerIndicator: components/pagerindicator.md
+  - ComposePager: components/ComposePager.md
+  - Banner: components/Banner.md
+  - PagerIndicator: components/PagerIndicator.md
+  - FlowLayout: components/FlowLayout.md
   - ImageBanner: components/ImageBanner.md
   - RefreshLayout: components/RefreshLayout.md
   - GoodTextField and PasswordTextField: components/GoodTextField.md
